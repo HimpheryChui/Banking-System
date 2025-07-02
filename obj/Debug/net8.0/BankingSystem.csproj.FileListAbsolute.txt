@@ -1,0 +1,78 @@
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/bin/Debug/net8.0/BankingSystem
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/bin/Debug/net8.0/BankingSystem.deps.json
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/bin/Debug/net8.0/BankingSystem.runtimeconfig.json
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/bin/Debug/net8.0/BankingSystem.dll
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/bin/Debug/net8.0/BankingSystem.pdb
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.AssemblyInfoInputs.cache
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.AssemblyInfo.cs
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.csproj.CoreCompileInputs.cache
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.dll
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/obj/Debug/net8.0/refint/BankingSystem.dll
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.pdb
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.genruntimeconfig.cache
+/Users/himpherychui/Downloads/Uni Course/Year2/SIT232/5.2p/BankingSystem/obj/Debug/net8.0/ref/BankingSystem.dll
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/bin/Debug/net8.0/BankingSystem
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/bin/Debug/net8.0/BankingSystem.deps.json
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/bin/Debug/net8.0/BankingSystem.runtimeconfig.json
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/bin/Debug/net8.0/BankingSystem.dll
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/bin/Debug/net8.0/BankingSystem.pdb
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.AssemblyInfoInputs.cache
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.AssemblyInfo.cs
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.csproj.CoreCompileInputs.cache
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.dll
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/obj/Debug/net8.0/refint/BankingSystem.dll
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.pdb
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/obj/Debug/net8.0/BankingSystem.genruntimeconfig.cache
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/6.2p/BankingSystem/obj/Debug/net8.0/ref/BankingSystem.dll
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/bin/Debug/net8.0/BankingSystem
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/bin/Debug/net8.0/BankingSystem.deps.json
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/bin/Debug/net8.0/BankingSystem.runtimeconfig.json
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/bin/Debug/net8.0/BankingSystem.dll
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/bin/Debug/net8.0/BankingSystem.pdb
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/obj/Debug/net8.0/BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/obj/Debug/net8.0/BankingSystem.AssemblyInfoInputs.cache
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/obj/Debug/net8.0/BankingSystem.AssemblyInfo.cs
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/obj/Debug/net8.0/BankingSystem.csproj.CoreCompileInputs.cache
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/obj/Debug/net8.0/BankingSystem.dll
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/obj/Debug/net8.0/refint/BankingSystem.dll
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/obj/Debug/net8.0/BankingSystem.pdb
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/obj/Debug/net8.0/BankingSystem.genruntimeconfig.cache
+/Users/himpherychui/Downloads/UniCourse/Year2/SIT232/7.1p/BankingSystem/obj/Debug/net8.0/ref/BankingSystem.dll
+D:\BankingSystem\obj\Debug\net8.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfoInputs.cache
+D:\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfo.cs
+D:\BankingSystem\obj\Debug\net8.0\BankingSystem.csproj.CoreCompileInputs.cache
+D:\BankingSystem\obj\Debug\net8.0\BankingSystem.dll
+D:\BankingSystem\obj\Debug\net8.0\refint\BankingSystem.dll
+D:\BankingSystem\obj\Debug\net8.0\BankingSystem.pdb
+c:\Users\himph\Desktop\BankingSystem\obj\Debug\net8.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\himph\Desktop\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfoInputs.cache
+c:\Users\himph\Desktop\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfo.cs
+c:\Users\himph\Desktop\BankingSystem\obj\Debug\net8.0\BankingSystem.csproj.CoreCompileInputs.cache
+c:\Users\himph\Desktop\BankingSystem\obj\Debug\net8.0\BankingSystem.dll
+c:\Users\himph\Desktop\BankingSystem\obj\Debug\net8.0\refint\BankingSystem.dll
+c:\Users\himph\Desktop\BankingSystem\obj\Debug\net8.0\BankingSystem.pdb
+C:\Users\himph\Desktop\BankingSystem\bin\Debug\net8.0\BankingSystem.exe
+C:\Users\himph\Desktop\BankingSystem\bin\Debug\net8.0\BankingSystem.deps.json
+C:\Users\himph\Desktop\BankingSystem\bin\Debug\net8.0\BankingSystem.runtimeconfig.json
+C:\Users\himph\Desktop\BankingSystem\bin\Debug\net8.0\BankingSystem.dll
+C:\Users\himph\Desktop\BankingSystem\bin\Debug\net8.0\BankingSystem.pdb
+C:\Users\himph\Desktop\BankingSystem\obj\Debug\net8.0\BankingSystem.genruntimeconfig.cache
+C:\Users\himph\Desktop\BankingSystem\obj\Debug\net8.0\ref\BankingSystem.dll
+C:\Users\himph\Downloads\Projects\Banking-System\bin\Debug\net8.0\BankingSystem.exe
+C:\Users\himph\Downloads\Projects\Banking-System\bin\Debug\net8.0\BankingSystem.deps.json
+C:\Users\himph\Downloads\Projects\Banking-System\bin\Debug\net8.0\BankingSystem.runtimeconfig.json
+C:\Users\himph\Downloads\Projects\Banking-System\bin\Debug\net8.0\BankingSystem.dll
+C:\Users\himph\Downloads\Projects\Banking-System\bin\Debug\net8.0\BankingSystem.pdb
+C:\Users\himph\Downloads\Projects\Banking-System\obj\Debug\net8.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\himph\Downloads\Projects\Banking-System\obj\Debug\net8.0\BankingSystem.AssemblyInfoInputs.cache
+C:\Users\himph\Downloads\Projects\Banking-System\obj\Debug\net8.0\BankingSystem.AssemblyInfo.cs
+C:\Users\himph\Downloads\Projects\Banking-System\obj\Debug\net8.0\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\himph\Downloads\Projects\Banking-System\obj\Debug\net8.0\BankingSystem.sourcelink.json
+C:\Users\himph\Downloads\Projects\Banking-System\obj\Debug\net8.0\BankingSystem.dll
+C:\Users\himph\Downloads\Projects\Banking-System\obj\Debug\net8.0\refint\BankingSystem.dll
+C:\Users\himph\Downloads\Projects\Banking-System\obj\Debug\net8.0\BankingSystem.pdb
+C:\Users\himph\Downloads\Projects\Banking-System\obj\Debug\net8.0\BankingSystem.genruntimeconfig.cache
+C:\Users\himph\Downloads\Projects\Banking-System\obj\Debug\net8.0\ref\BankingSystem.dll
